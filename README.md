@@ -38,3 +38,16 @@ In the hierarchical clustering map, we can see that clusters have formed around 
 # Data Preparation for K-means
 
 <img src= "https://github.com/JMarcoOviedo/Country-Analysis-and-Clustering-/blob/main/images/data2.png"/>
+This is a count of the null values in our data set. To try to avoid dropping a large percentage of our data set we will look into the countries with missing values. 
+
+<img src= "https://github.com/JMarcoOviedo/Country-Analysis-and-Clustering-/blob/main/images/data3.png"/>
+Looking at the countries, a majority of them are islands, so it makes sense why there might not be a value for agriculture. So instead of dropping these countries, we could set agriculture equal to zero.
+
+<img src= "https://github.com/JMarcoOviedo/Country-Analysis-and-Clustering-/blob/main/images/data4.png"/>
+
+It appears the Industry and Service columns are also affected by agriculture because their null values also decreased.
+
+Now to fill in the climate and literacy, since there is a region column, we can just take the mean of the climate and literacy in that region and use it to fill in the null values.
+
+<img src= "https://github.com/JMarcoOviedo/Country-Analysis-and-Clustering-/blob/main/images/data5.png"/>
+We still have a few missing values, but we will just drop them since they are now a very small percentage of our overall data set

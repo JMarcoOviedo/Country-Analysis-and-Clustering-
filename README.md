@@ -35,3 +35,4 @@ Looking at the correlation heat map, some of the values that are highly correlat
 <img src= "https://github.com/JMarcoOviedo/Country-Analysis-and-Clustering-/blob/main/images/country6.png"/>
 In the hierarchical clustering map, we can see that clusters have formed around certain aspects of a country, such as a cluster of the life and death rates, followed by another cluster of the factors of a country's wealth. Then by climate and geography.
 
+# Data Preparation for K-means

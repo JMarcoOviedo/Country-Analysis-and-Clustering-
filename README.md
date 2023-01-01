@@ -24,5 +24,5 @@ Here we can see the regions with the highest GPD per capita are Western Europe a
 <img src= "https://github.com/JMarcoOviedo/Country-Analysis-and-Clustering-/blob/main/images/country2.png"/>
 Looking at the graph above, we can see that countries with the highest infant mortality rates all have a GDP per capita of less than 10,000. Conversely, countries with a GDP per capita greater than 10,000 all have low infant mortality rates.
 
-<img src= "https://github.com/JMarcoOviedo/Country-Analysis-and-Clustering-/blob/main/images/country3.png"/>
+<img src= "https://github.com/JMarcoOviedo/Country-Analysis-and-Clustering-/blob/main/images/country4.png"/>
 The literacy rate varies significantly for countries with a GDP per capita below 10,000. For countries with a GDP per capita above 10,000, the literacy rate appears to be above 80%.

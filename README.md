@@ -51,3 +51,11 @@ Now to fill in the climate and literacy, since there is a region column, we can 
 
 <img src= "https://github.com/JMarcoOviedo/Country-Analysis-and-Clustering-/blob/main/images/data5.png"/>
 We still have a few missing values, but we will just drop them since they are now a very small percentage of our overall data set
+
+# K-Means Model
+
+<img src= "https://github.com/JMarcoOviedo/Country-Analysis-and-Clustering-/blob/main/images/kmeans.png"/>
+Looking at the SSD, it appears that after 6 clusters, the difference in SSD doesn't change as much. So we will conduct further visual analysis with the model set to 6 clusters
+
+<img src= "https://github.com/JMarcoOviedo/Country-Analysis-and-Clustering-/blob/main/images/newplot (1).png"/>
+It appears the clusters that formed are similar to the region that the country is in, such as a cluster around Northern America, Latin Amer. and Sub-Saharan Africa

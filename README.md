@@ -16,7 +16,7 @@ Using data compiled from the CIA country fact sheet, I will seek insights into s
 <img src= "https://github.com/JMarcoOviedo/Country-Analysis-and-Clustering-/blob/main/images/country3.png"/>
 Looking at the histogram, we can see that most of the countries in this data set have a population of less than 100,000,000. Also, this histogram was limited to countries with a population less than 300,000,000 to give us a better visualization of the distribution.
 
-
+## 
 <img src= "https://github.com/JMarcoOviedo/Country-Analysis-and-Clustering-/blob/main/images/country1.png"/>
 Here we can see the regions with the highest GPD per capita are Western Europe and Northern America. Looking at the standard deviation, which is represented by the black bar, we can see that it is small for countries in Western Europe. This may be because countries in Western Europe tend to have a high GDP per capita. However, looking at the standard deviation for Northern America, we can see that it is very large. This is most likely caused by the United States, which has a much larger GDP per capita when compared to its surrounding countries.
 

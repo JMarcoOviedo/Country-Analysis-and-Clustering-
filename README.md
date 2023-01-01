@@ -23,6 +23,15 @@ Here we can see the regions with the highest GPD per capita are Western Europe a
 ## 
 <img src= "https://github.com/JMarcoOviedo/Country-Analysis-and-Clustering-/blob/main/images/country2.png"/>
 Looking at the graph above, we can see that countries with the highest infant mortality rates all have a GDP per capita of less than 10,000. Conversely, countries with a GDP per capita greater than 10,000 all have low infant mortality rates.
+
 ## 
 <img src= "https://github.com/JMarcoOviedo/Country-Analysis-and-Clustering-/blob/main/images/country4.png"/>
 The literacy rate varies significantly for countries with a GDP per capita below 10,000. For countries with a GDP per capita above 10,000, the literacy rate appears to be above 80%.
+
+<img src= "https://github.com/JMarcoOviedo/Country-Analysis-and-Clustering-/blob/main/images/country5.png"/>
+Looking at the correlation heat map, some of the values that are highly correlated make sense, such as birth rate and infant mortality, as well as population and area. Another interesting observation is the high negative correlation between literacy and birthrate. This may be because countries with higher literacy rates had a greater GDP per capita, with may mean more access to medical services.
+
+##
+<img src= "https://github.com/JMarcoOviedo/Country-Analysis-and-Clustering-/blob/main/images/country6.png"/>
+In the hierarchical clustering map, we can see that clusters have formed around certain aspects of a country, such as a cluster of the life and death rates, followed by another cluster of the factors of a country's wealth. Then by climate and geography.
+

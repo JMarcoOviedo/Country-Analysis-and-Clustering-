@@ -14,3 +14,6 @@ Using data compiled from the CIA country fact sheet, I will seek insights into s
 # Data Analysis and Visualization
 
 <img src= "https://github.com/JMarcoOviedo/Country-Analysis-and-Clustering-/blob/main/images/country3.png"/>
+Looking at the histogram, we can see that most of the countries in this data set have a population of less than 100,000,000. Also, this histogram was limited to countries with a population less than 300,000,000 to give us a better visualization of the distribution.
+
+<img src= "https://github.com/JMarcoOviedo/Country-Analysis-and-Clustering-/blob/main/images/country2.png"/>

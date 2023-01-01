@@ -12,3 +12,5 @@ Python Version: 3.9 Packages: Pandas, NumPy, Matplotlib, Seaborn, Sklearn, Plotl
 Using data compiled from the CIA country fact sheet, I will seek insights into similarities between countries with exploratory data analysis and by experimenting with different amounts of clusters.
 
 # Data Analysis and Visualization
+
+<img src= "https://github.com/JMarcoOviedo/Country-Analysis-and-Clustering-/blob/main/images/country3.png"/>
